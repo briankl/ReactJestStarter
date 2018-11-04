@@ -1,12 +1,12 @@
-import React, { Component} from "react";
-import {hot} from "react-hot-loader";
-import "./app.css";
+import React, { Component } from 'react';
+import { hot } from 'react-hot-loader';
+import './app.css';
 
 class App extends Component {
   render() {
-    return(
+    return (
       <div className="app">
-        <h1> Hello, World!!! </h1>
+        <h1> Hello, World!!!</h1>
       </div>
     );
   }
